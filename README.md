@@ -9,20 +9,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 ## Contents
 - [📣 Marketing, SEO & Sales](#marketing-seo-sales) (175)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (201)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (351)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (102)
-- [🎬 Video & Animation](#video-animation) (96)
-- [🎨 Image, Design & 3D](#image-design-3d) (116)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (354)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (103)
+- [🎬 Video & Animation](#video-animation) (99)
+- [🎨 Image, Design & 3D](#image-design-3d) (117)
 - [✍️ Writing & Content](#writing-content) (69)
 - [📊 Analytics & Data](#analytics-data) (96)
-- [🗂 Productivity & Notes](#productivity-notes) (284)
+- [🗂 Productivity & Notes](#productivity-notes) (286)
 - [🔎 Search & Discovery](#search-discovery) (49)
 - [🎓 Education & Learning](#education-learning) (47)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (41)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (52)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (168)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (40)
-- [👥 Social & Community](#social-community) (30)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (171)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (41)
+- [👥 Social & Community](#social-community) (31)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (21)
 - [✨ Everything Else](#everything-else) (136)
 
@@ -762,6 +762,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Open Inspector](https://patlf.github.io/open-inspector/) - A free, open-source browser extension for inspecting layout, styles, colour, type and assets on any page, and exporting its design tokens.
 - [Agent Activity](https://le-max-app.com/apps/agent-activity/) - See what your AI coding agents are doing behind the scene: every session, build, test run and screenshot, live and per agent.
 - [LuauCheck](https://luaucheck.com) - LuauCheck turns one sentence into a Roblox Luau script and shows exactly where to place it in Studio.
+- [Sente](https://teai.io/sente-en) - A coding agent you can talk to — in your terminal or on your phone.
+- [Thinking Orbs](https://www.thinkingorbs.com) - A React component library of animated AI agent status orbs.
+- [Blume](https://useblume.dev) - Ship beautiful, fast, AI-ready documentation from plain markdown.
 
 ## 🎙 Audio, Voice & Music
 
@@ -867,6 +870,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Eleven v4 and Eleven v4 Turbo](https://elevenlabs.io/v4) - Meet Eleven v4 and Eleven v4 Turbo by ElevenLabs, their most expressive models yet, with Turbo built for real-time use.
 - [Famulor](https://www.famulor.io) - Deploy AI voice agents that answer every inbound call, run outbound campaigns, and follow up over WhatsApp, email and SMS.
 - [FoundrRadio](https://foundrradio.live) - FoundrRadio is an internet radio platform where founders could own their own radio stations and go on air.
+- [AISongsGenerator](https://aisongsgenerator.com) - AISongsGenerator is a browser-based AI music toolkit for creators and musicians.
 
 ## 🎬 Video & Animation
 
@@ -966,6 +970,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Soutine Seedance Prompt Library](https://soutine.ai/seedance-prompts) - 66 Seedance video prompts with real clip previews; copy shot language or run it in Soutine.
 - [Syllaby AI Avatar 2.0](https://syllaby.io/features/avatars-2-0/) - Turn a script or simple idea into a complete presenter-led video with a realistic AI avatar, natural voice, B-roll and subtitles—without hiring actors.
 - [MacCam](https://maccam.app) - MacCam is a free, native camera app for macOS.
+- [LaunchReel](https://launchreel.firstfoot.dev) - LaunchReel is a Claude Code plugin that makes your videos: launch films and demos for your real product, written as code from your repo, and talking-head reels cut from your raw recordings.
+- [Smooth Recorder](https://smoothrecorder.com) - Smooth Recorder is a native Mac app for demos and tutorials.
+- [Lyric Video Maker](https://lyricvideomaker.app) - Lyric Video Maker helps musicians and creators turn songs into synchronized lyric videos.
 
 ## 🎨 Image, Design & 3D
 
@@ -1086,6 +1093,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Anthroposcaper](https://anthroposcaper.ru/en/) - Draw a 2D plan in the browser or import a DXF, then tag its faces and lines.
 - [Claude Imagine](https://claudeimagine.com) - Claude Imagine is a web app for AI image generation, image editing and video creation.
 - [AI Image Generator](https://imgstyler.com) - Generate, restyle, and edit AI images with GPT Image 2 and Nano Banana prompts, reference images, and reusable styles in one studio.
+- [Art4](https://art4.app) - Do you like Monet’s gardens or Van Gogh’s skies?.
 
 ## ✍️ Writing & Content
 
@@ -1545,6 +1553,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [WattMate](https://wattmateapp.com) - WattMate sits in the Mac menu bar and shows which app is draining the battery right now, in watts, and how many minutes you get back if you quit it.
 - [una mano](https://unamanokeyboard.com) - una mano moves a familiar QWERTY keyboard left, centre, or right when a hand is busy.
 - [Notchware](https://ballmac.com/notchware) - That notch at the top of your MacBook does nothing.
+- [Calnio](https://calnio.myroslavrepin.com) - Calnio syncs Notion tasks and Apple Calendar both ways, real iCloud events with alerts, not a read-only webcal feed.
+- [WikiFix for Confluence](https://wikifix.ai) - WikiFix monitors your KB for issues like contradicting pages, duplicates and orphans, and fixes them in one click once you approve, so your team can trust what it reads or hears from AI.
 
 ## 🔎 Search & Discovery
 
@@ -1918,6 +1928,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [iFixAi](https://www.ifixai.ai) - iFixAi is an independent auditor helping companies assess whether they can trust their AI agents.
 - [Directus](https://directus.io) - The Modern Data Stack 🐰 Monospace is the governed API layer for every app, person, and agent.
 - [JarvisCore](https://jarviscore.developers.prescottdata.io) - JarvisCore is a runtime where AI agents operate as a fleet of equal peers.
+- [Octri.dev](https://octri.dev) - Upload an OpenAPI spec and Octri generates a fully customizable documentation site, high-quality client SDKs in ten languages (TypeScript, Python, Go, Rust, Ruby, PHP, Java, Kotlin, Swift, Dart)….
+- [opensend.cc](https://opensend.cc) - opensend.cc is an open source email platform that runs on your server. It sends through your own AWS account, so your domain, your data and your sender reputation stay yours. You get a REST API….
+- [CoreSpeed](https://corespeed.io) - CoreSpeed is an operating system for agents.
 
 ## 💬 Chatbots & Conversational
 
@@ -1961,6 +1974,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Communicate](https://communicate.so) - Build AI support agents from your help docs, files, and past replies.
 - [Deskcord.chat](https://deskcord.chat) - Turn Discord into your support desk and chat with your customers.
 - [miso.com](https://www.miso.com) - Stop opening 20 tabs to book a trip.
+- [Sellio](https://sellio.chat) - AI customer support in one shared inbox: live chat, WhatsApp, Instagram, Telegram, and email.
 
 ## 👥 Social & Community
 
@@ -1994,6 +2008,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nepotism Network](https://nepotism.network) - Someone you know knows someone you wish you knew.
 - [PostSider](https://postsider.com) - PostSider is a social media publishing platform built for humans and AI agents.
 - [MakerMap](https://www.makermap.lol) - MakerMap is a living map of the maker world.
+- [Capybara Court](https://capybara-court.web.app) - Two people answer the same four questions about a small dispute.
 
 ## 🛒 E-commerce & Retail
 
