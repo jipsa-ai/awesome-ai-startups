@@ -7,22 +7,22 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (175)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (176)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (201)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (354)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (356)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (103)
-- [🎬 Video & Animation](#video-animation) (99)
-- [🎨 Image, Design & 3D](#image-design-3d) (117)
-- [✍️ Writing & Content](#writing-content) (69)
-- [📊 Analytics & Data](#analytics-data) (96)
-- [🗂 Productivity & Notes](#productivity-notes) (286)
+- [🎬 Video & Animation](#video-animation) (100)
+- [🎨 Image, Design & 3D](#image-design-3d) (119)
+- [✍️ Writing & Content](#writing-content) (71)
+- [📊 Analytics & Data](#analytics-data) (98)
+- [🗂 Productivity & Notes](#productivity-notes) (289)
 - [🔎 Search & Discovery](#search-discovery) (49)
 - [🎓 Education & Learning](#education-learning) (47)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (41)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (52)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (171)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (174)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (41)
-- [👥 Social & Community](#social-community) (31)
+- [👥 Social & Community](#social-community) (32)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (21)
 - [✨ Everything Else](#everything-else) (136)
 
@@ -203,6 +203,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Get-Seen.Live](https://get-seen.live) - Get-Seen.Live is a public product leaderboard where your payment determines your rank. Submit a product or X handle, choose an amount, and claim the rank that amount supports. No votes, followers,….
 - [BlooTrue: Free Review Widgets](https://www.blootrue.com) - BlooTrue offers free review widgets and no-code website widgets, an Elfsight alternative.
 - [Prefer](https://tryprefer.com) - AEO should not be another dashboard.
+- [Oogwai Beacon](https://oogw.ai/aeo) - Most AEO tools score your HTML and call it AI visibility.
 
 ## 🤖 AI Agents & Assistants
 
@@ -765,6 +766,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sente](https://teai.io/sente-en) - A coding agent you can talk to — in your terminal or on your phone.
 - [Thinking Orbs](https://www.thinkingorbs.com) - A React component library of animated AI agent status orbs.
 - [Blume](https://useblume.dev) - Ship beautiful, fast, AI-ready documentation from plain markdown.
+- [Dots UI](https://dotsui.dev) - A particle library for React.
+- [devpit](https://devpit.app) - devpit is a native desktop app for running Claude Code agents.
 
 ## 🎙 Audio, Voice & Music
 
@@ -973,6 +976,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [LaunchReel](https://launchreel.firstfoot.dev) - LaunchReel is a Claude Code plugin that makes your videos: launch films and demos for your real product, written as code from your repo, and talking-head reels cut from your raw recordings.
 - [Smooth Recorder](https://smoothrecorder.com) - Smooth Recorder is a native Mac app for demos and tutorials.
 - [Lyric Video Maker](https://lyricvideomaker.app) - Lyric Video Maker helps musicians and creators turn songs into synchronized lyric videos.
+- [ZombieTrend](https://zombietrend.com) - ZombieTrend makes personalized 15-second AI zombie trend videos from two photos.
 
 ## 🎨 Image, Design & 3D
 
@@ -1094,6 +1098,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Claude Imagine](https://claudeimagine.com) - Claude Imagine is a web app for AI image generation, image editing and video creation.
 - [AI Image Generator](https://imgstyler.com) - Generate, restyle, and edit AI images with GPT Image 2 and Nano Banana prompts, reference images, and reusable styles in one studio.
 - [Art4](https://art4.app) - Do you like Monet’s gardens or Van Gogh’s skies?.
+- [Siteprint](https://siteprint.app) - Siteprint is a Safari extension for Mac that measures the design of any page: colours with their roles, type scale, spacing, corners and layout.
+- [RemoveGenie](https://removegenie.com) - RemoveGenie is a brush-based AI photo eraser for people, objects, text, watermarks, and stickers.
 
 ## ✍️ Writing & Content
 
@@ -1166,6 +1172,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lattice](https://lattice.aryy.in) - Lattice reshapes your text through multiple language paths, creating a fresh expression while preserving the original idea.
 - [Vitra.ai](https://vitra.ai) - Stop switching tools!.
 - [MangaTranslate](https://www.mangatranslate.com/ko/) - MangaTranslate is an enterprise-grade manga reader and translator: batch and custom translation for individuals, a full online Photoshop editor and API for studios, all languages supported.
+- [Reactive Resume](https://rxresu.me) - Reactive Resume is a free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume.
+- [Jarq](https://jarq.app) - Translate, shorten, fix or rewrite any text right where your cursor is — in any app on Mac.
 
 ## 📊 Analytics & Data
 
@@ -1266,6 +1274,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Statable Analytics](https://statable.com) - Statable is web analytics built for humans and AI agents.
 - [Engine Room Media](https://engineroommedia.com) - Built for Creator growth, Engine Room brings all of your platform analytics, media kit, and rate cards together in one easy to use dashboard.
 - [Would you pay?](https://iwouldpay.dev) - Most side projects fail quietly: months of building, then nobody pays.
+- [CirclePanel](https://circlepanel.com) - Circle Panel is An End To End AI-native UX Research platform for Plan, Recruit, Analyze User research Studies.
+- [DailyHelm](https://dailyhelm.com) - DailyHelm is an AI business reviewer for founders and growth teams.
 
 ## 🗂 Productivity & Notes
 
@@ -1555,6 +1565,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Notchware](https://ballmac.com/notchware) - That notch at the top of your MacBook does nothing.
 - [Calnio](https://calnio.myroslavrepin.com) - Calnio syncs Notion tasks and Apple Calendar both ways, real iCloud events with alerts, not a read-only webcal feed.
 - [WikiFix for Confluence](https://wikifix.ai) - WikiFix monitors your KB for issues like contradicting pages, duplicates and orphans, and fixes them in one click once you approve, so your team can trust what it reads or hears from AI.
+- [crosswalk](https://mcp.crosswalk.to) - Catch up on everything.
+- [Marv](https://meetmarv.org) - Meet Marv, your cursor’s new plus-one.
+- [GearDex](https://geardex.app) - GearDex is a camera gear inventory for photographers, videographers, and studios, on the web and now as a native macOS app.
 
 ## 🔎 Search & Discovery
 
@@ -1931,6 +1944,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Octri.dev](https://octri.dev) - Upload an OpenAPI spec and Octri generates a fully customizable documentation site, high-quality client SDKs in ten languages (TypeScript, Python, Go, Rust, Ruby, PHP, Java, Kotlin, Swift, Dart)….
 - [opensend.cc](https://opensend.cc) - opensend.cc is an open source email platform that runs on your server. It sends through your own AWS account, so your domain, your data and your sender reputation stay yours. You get a REST API….
 - [CoreSpeed](https://corespeed.io) - CoreSpeed is an operating system for agents.
+- [Invofox](https://www.invofox.com) - Invofox is a document parsing API for software teams that turns complex, real-world documents into accurate, structured data.
+- [Opengeni](https://opengeni.ai) - Ship AI agents to production in hours.
+- [FastRouter.ai](https://fastrouter.ai) - FastRouter is a unified AI gateway and control plane for developers and enterprise teams building with LLMs.
 
 ## 💬 Chatbots & Conversational
 
@@ -2009,6 +2025,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [PostSider](https://postsider.com) - PostSider is a social media publishing platform built for humans and AI agents.
 - [MakerMap](https://www.makermap.lol) - MakerMap is a living map of the maker world.
 - [Capybara Court](https://capybara-court.web.app) - Two people answer the same four questions about a small dispute.
+- [HUMANKIND V MACHINES — Apocalypse Island](https://playhvm.com) - HUMANKIND VS MACHINES is a live participatory battle for Apocalypse Island.
 
 ## 🛒 E-commerce & Retail
 
