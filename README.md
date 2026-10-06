@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (176)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (201)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (356)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (177)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (203)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (358)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (103)
 - [🎬 Video & Animation](#video-animation) (100)
 - [🎨 Image, Design & 3D](#image-design-3d) (119)
-- [✍️ Writing & Content](#writing-content) (71)
+- [✍️ Writing & Content](#writing-content) (72)
 - [📊 Analytics & Data](#analytics-data) (98)
-- [🗂 Productivity & Notes](#productivity-notes) (289)
+- [🗂 Productivity & Notes](#productivity-notes) (293)
 - [🔎 Search & Discovery](#search-discovery) (49)
-- [🎓 Education & Learning](#education-learning) (47)
+- [🎓 Education & Learning](#education-learning) (48)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (41)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (52)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (53)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (174)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (41)
 - [👥 Social & Community](#social-community) (32)
-- [🛒 E-commerce & Retail](#e-commerce-retail) (21)
-- [✨ Everything Else](#everything-else) (136)
+- [🛒 E-commerce & Retail](#e-commerce-retail) (22)
+- [✨ Everything Else](#everything-else) (137)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -204,6 +204,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [BlooTrue: Free Review Widgets](https://www.blootrue.com) - BlooTrue offers free review widgets and no-code website widgets, an Elfsight alternative.
 - [Prefer](https://tryprefer.com) - AEO should not be another dashboard.
 - [Oogwai Beacon](https://oogw.ai/aeo) - Most AEO tools score your HTML and call it AI visibility.
+- [Extrovert](https://goextrovert.com) - Extrovert finds prospects, suggests who to comment on or DM today, and prepares drafts in your voice.
 
 ## 🤖 AI Agents & Assistants
 
@@ -408,6 +409,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Yedric.ai](https://www.yedric.ai) - Your users shouldn't have to learn where every feature lives.
 - [Cue by Manus](https://cue.im) - Whatever life brings, your personal agents on Cue handle it — each with its own email, phone number, wallet and computer to get real work done.
 - [ZooWork](https://zoowork.ai) - ZooWork lets you build, deploy, and deliver AI agents to teams or clients — experts start in the Builder UI, developers ship with the Managed Agent API.
+- [ruOS](https://ruos.cognitum.one) - ruOS is a private cloud desktop with an AI team built in.
+- [OpenBot](https://openbot.run) - OpenBot is an open-source workspace for AI teammates.
 
 ## 💻 Coding & Developer Tools
 
@@ -768,6 +771,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Blume](https://useblume.dev) - Ship beautiful, fast, AI-ready documentation from plain markdown.
 - [Dots UI](https://dotsui.dev) - A particle library for React.
 - [devpit](https://devpit.app) - devpit is a native desktop app for running Claude Code agents.
+- [Pheebs](https://pheebs.ai) - Measure how you and your team actually work with AI coding agents.
+- [Rill Browser](https://rill.love) - Rill is an AI-native browser built around the Claude Code and Codex you already use.
 
 ## 🎙 Audio, Voice & Music
 
@@ -1174,6 +1179,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MangaTranslate](https://www.mangatranslate.com/ko/) - MangaTranslate is an enterprise-grade manga reader and translator: batch and custom translation for individuals, a full online Photoshop editor and API for studios, all languages supported.
 - [Reactive Resume](https://rxresu.me) - Reactive Resume is a free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume.
 - [Jarq](https://jarq.app) - Translate, shorten, fix or rewrite any text right where your cursor is — in any app on Mac.
+- [Cosmic](https://www.cosmicjs.com) - Cosmic is an AI-native managed headless CMS for content teams.
 
 ## 📊 Analytics & Data
 
@@ -1568,6 +1574,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [crosswalk](https://mcp.crosswalk.to) - Catch up on everything.
 - [Marv](https://meetmarv.org) - Meet Marv, your cursor’s new plus-one.
 - [GearDex](https://geardex.app) - GearDex is a camera gear inventory for photographers, videographers, and studios, on the web and now as a native macOS app.
+- [Doco](https://getdoco.app) - Meet Doco - an expressive Android companion for focus, music and everyday moments, with an optional Windows desktop visitor.
+- [Chunk](https://www.chunkapp.net) - Chunk is a time blocking app for Mac.
+- [NoteWorthy](https://noteworthy.wtf) - Yet another notes app with AI?.
+- [Incredible](https://incredible.one) - Incredible is a desktop AI for Mac and Windows that does your busywork for you.
 
 ## 🔎 Search & Discovery
 
@@ -1671,6 +1681,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Teachoo](https://teachoo.ai) - Teachoo helps students work through homework one question at a time.
 - [Gauth](https://www.gauth.com) - Gauth is an all-in-one AI study platform, purpose-built for education.
 - [SubmitSense](https://aiturnitinchecker.com) - SubmitSense helps students and researchers check AI writing and similarity before submission.
+- [Coddy](https://coddy.tech/partner/ProductHunt) - Coddy teaches you to code with short, interactive lessons you actually finish.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1770,6 +1781,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ApplySeed](https://applyseed.com) - Raise money from accelerators and programs that give you a clear Yes or NO, instead of another “let’s keep in touch.” Bring what you already have: a deck, your notes, or use our prompt with….
 - [Bleetz Network](https://bleetz.network) - Fundraising is broken.
 - [Supertake](https://supertake.com) - Supertake transforms your unique takes on the world into real, shareable investment portfolios using frontier AI and trading agents.
+- [Chargebee](http://chargebee.com) - Adopt new pricing models — tiered, volume, stairstep, usage-based, flat-fee, or any custom model, without outgrowing your billing system.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -2050,6 +2062,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Psst](https://getpsst.app) - Psst is a shared shopping list.
 - [ProductShot AI](https://productshotai.app) - Retailers managing storefronts on Amazon, Etsy, and Shopify can deploy ProductShot AI to generate multiple listing images from a single upload.
 - [Keepp](https://keepp.link) - Keepp gives you one page at keepp.link/yourname with your links, a shop with Stripe checkout, a booking calendar and forms. Free to start, and the money from a sale goes to your own Stripe….
+- [Vendabo](https://vendabo.com) - Vendabo is e-commerce software built for the Dominican Republic.
 
 ## ✨ Everything Else
 
@@ -2189,6 +2202,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Phare C1®](https://www.pharelabs.com) - Phare C1 is a smoke alarm that sounds for actual emergencies and nothing else.
 - [Bambu Lab R1](https://bambulab.com/en-us/r1) - Bambu Lab R1 is a 55W CO2 laser cutter built around automation.
 - [FeelMyMac](https://feelmymac.thehighjack.it) - FeelMyMac brings haptic textures to cursor movement and scrolling on Mac trackpads.
+- [Ghostifier](https://www.ghostifier.com) - Instead of one form per company, Ghostifier starts from your inbox.
 
 ## Contributing
 
