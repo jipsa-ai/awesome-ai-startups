@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (177)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (182)
 - [🤖 AI Agents & Assistants](#ai-agents-assistants) (203)
 - [💻 Coding & Developer Tools](#coding-developer-tools) (358)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (103)
-- [🎬 Video & Animation](#video-animation) (100)
-- [🎨 Image, Design & 3D](#image-design-3d) (119)
+- [🎬 Video & Animation](#video-animation) (101)
+- [🎨 Image, Design & 3D](#image-design-3d) (121)
 - [✍️ Writing & Content](#writing-content) (72)
-- [📊 Analytics & Data](#analytics-data) (98)
-- [🗂 Productivity & Notes](#productivity-notes) (293)
-- [🔎 Search & Discovery](#search-discovery) (49)
-- [🎓 Education & Learning](#education-learning) (48)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (41)
+- [📊 Analytics & Data](#analytics-data) (99)
+- [🗂 Productivity & Notes](#productivity-notes) (296)
+- [🔎 Search & Discovery](#search-discovery) (50)
+- [🎓 Education & Learning](#education-learning) (49)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (43)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (53)
 - [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (174)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (41)
-- [👥 Social & Community](#social-community) (32)
+- [👥 Social & Community](#social-community) (33)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (22)
-- [✨ Everything Else](#everything-else) (137)
+- [✨ Everything Else](#everything-else) (138)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -205,6 +205,11 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Prefer](https://tryprefer.com) - AEO should not be another dashboard.
 - [Oogwai Beacon](https://oogw.ai/aeo) - Most AEO tools score your HTML and call it AI visibility.
 - [Extrovert](https://goextrovert.com) - Extrovert finds prospects, suggests who to comment on or DM today, and prepares drafts in your voice.
+- [Proofsource](https://proofsource.co) - When a buyer asks ChatGPT for the best tool in your category, it names five or six companies and stops.
+- [Ownfeed](https://ownfeed.dev) - Paste your product's URL.
+- [Supademo](https://supademo.com) - Supademo helps teams create interactive demos and guides in seconds.
+- [GenPage](https://www.genpage.ai) - Your marketing campaigns are personalized.
+- [IndieTool](https://www.indietool.io) - IndieTool is a launchpad and directory for indie founders.
 
 ## 🤖 AI Agents & Assistants
 
@@ -982,6 +987,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Smooth Recorder](https://smoothrecorder.com) - Smooth Recorder is a native Mac app for demos and tutorials.
 - [Lyric Video Maker](https://lyricvideomaker.app) - Lyric Video Maker helps musicians and creators turn songs into synchronized lyric videos.
 - [ZombieTrend](https://zombietrend.com) - ZombieTrend makes personalized 15-second AI zombie trend videos from two photos.
+- [Video Upscaler](https://videoupscaler.video) - Video Upscaler is an online AI video enhancer for creators and restoration work.
 
 ## 🎨 Image, Design & 3D
 
@@ -1105,6 +1111,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Art4](https://art4.app) - Do you like Monet’s gardens or Van Gogh’s skies?.
 - [Siteprint](https://siteprint.app) - Siteprint is a Safari extension for Mac that measures the design of any page: colours with their roles, type scale, spacing, corners and layout.
 - [RemoveGenie](https://removegenie.com) - RemoveGenie is a brush-based AI photo eraser for people, objects, text, watermarks, and stickers.
+- [Image Describer](https://imagedescriber.dev) - Image Describer helps creators and website editors turn images into descriptions, alt text, image prompts, and OCR.
+- [Nano Banana 21](https://nanobanana21.co) - Nano Banana 2.1 brings image generation and reference editing into one browser workspace. Use Nano Banana 2 Lite for text-to-image drafts, or choose Pro / Qwen Image 2.1 / GPT Image 2.5 for….
 
 ## ✍️ Writing & Content
 
@@ -1282,6 +1290,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Would you pay?](https://iwouldpay.dev) - Most side projects fail quietly: months of building, then nobody pays.
 - [CirclePanel](https://circlepanel.com) - Circle Panel is An End To End AI-native UX Research platform for Plan, Recruit, Analyze User research Studies.
 - [DailyHelm](https://dailyhelm.com) - DailyHelm is an AI business reviewer for founders and growth teams.
+- [Databench by Alkera](https://alkera.ai) - Databench by Alkera is the open-source, multiplayer workspace for data science, analytics, and engineering.
 
 ## 🗂 Productivity & Notes
 
@@ -1578,6 +1587,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Chunk](https://www.chunkapp.net) - Chunk is a time blocking app for Mac.
 - [NoteWorthy](https://noteworthy.wtf) - Yet another notes app with AI?.
 - [Incredible](https://incredible.one) - Incredible is a desktop AI for Mac and Windows that does your busywork for you.
+- [Rool](https://rool.dev/?rv_topic=producthunt) - Rool is your private AI workspace.
+- [IrisGo](https://irisgo.ai/solopreneur) - IrisGo is an AI operating system for Windows and Mac that helps automate everyday work across applications.
+- [Velozity](https://getvelozity.com) - Your team chats in one app, meets in another, and every AI works alone.
 
 ## 🔎 Search & Discovery
 
@@ -1630,6 +1642,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Web Search Agents by Nimble](https://nimbleway.com/web-search-agents) - Web Search Agents are expert web crawling and research agents for your specific domain (company enrichment, regulations research, etc.). They self-learn your use case to go deeper into the sources….
 - [Opyt](https://useopyt.com) - Opyt turns the people and topics you already follow into a knowledge base.
 - [America.gov](https://america.gov) - America.gov is the simplest, fastest way to get information from the U.S. government. Instead of hunting across agency websites, just ask a question in plain language and get a clear answer. Built….
+- [Rental Car Ready](https://rentalcarready.com) - Rental Car Ready helps travelers check rental-car requirements by airport and company before pickup.
 
 ## 🎓 Education & Learning
 
@@ -1682,6 +1695,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Gauth](https://www.gauth.com) - Gauth is an all-in-one AI study platform, purpose-built for education.
 - [SubmitSense](https://aiturnitinchecker.com) - SubmitSense helps students and researchers check AI writing and similarity before submission.
 - [Coddy](https://coddy.tech/partner/ProductHunt) - Coddy teaches you to code with short, interactive lessons you actually finish.
+- [ParakeetAI](https://www.parakeet-ai.com) - Your real-time AI interview help.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1726,6 +1740,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lull](https://lullme.app) - Lull doesn't play recordings.
 - [Mantra Timer](https://mantratimer.app) - Mantra Meditation Timer rejects the bloated tracking of modern wellness apps.
 - [ADHD Reading](https://adhdreading.org) - ADHD Reading keeps things simple with transparent pricing and no hidden costs.
+- [Rhem Labs](https://rhem.ai) - Aging at home has a visibility problem.
+- [hairforge](https://beardstyles.co) - hairforge helps users compare beard styles, understand face-shape fit, and preview grooming directions before committing to a new look.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -2038,6 +2054,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [MakerMap](https://www.makermap.lol) - MakerMap is a living map of the maker world.
 - [Capybara Court](https://capybara-court.web.app) - Two people answer the same four questions about a small dispute.
 - [HUMANKIND V MACHINES — Apocalypse Island](https://playhvm.com) - HUMANKIND VS MACHINES is a live participatory battle for Apocalypse Island.
+- [Knuff App](https://knuff.me) - Knuff is a family check-in app that makes it easy to see how your loved ones are doing, even when life gets busy.
 
 ## 🛒 E-commerce & Retail
 
@@ -2203,6 +2220,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bambu Lab R1](https://bambulab.com/en-us/r1) - Bambu Lab R1 is a 55W CO2 laser cutter built around automation.
 - [FeelMyMac](https://feelmymac.thehighjack.it) - FeelMyMac brings haptic textures to cursor movement and scrolling on Mac trackpads.
 - [Ghostifier](https://www.ghostifier.com) - Instead of one form per company, Ghostifier starts from your inbox.
+- [Vedic Astrology Chart](https://vedicastrologychart.net) - Generate a free sidereal Vedic birth chart and explore houses, nakshatras, D9/Navamsa, dashas, and divisional charts.
 
 ## Contributing
 
