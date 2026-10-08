@@ -7,24 +7,24 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (182)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (203)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (358)
-- [🎙 Audio, Voice & Music](#audio-voice-music) (103)
-- [🎬 Video & Animation](#video-animation) (101)
-- [🎨 Image, Design & 3D](#image-design-3d) (121)
-- [✍️ Writing & Content](#writing-content) (72)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (183)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (204)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (360)
+- [🎙 Audio, Voice & Music](#audio-voice-music) (104)
+- [🎬 Video & Animation](#video-animation) (103)
+- [🎨 Image, Design & 3D](#image-design-3d) (123)
+- [✍️ Writing & Content](#writing-content) (73)
 - [📊 Analytics & Data](#analytics-data) (99)
-- [🗂 Productivity & Notes](#productivity-notes) (296)
+- [🗂 Productivity & Notes](#productivity-notes) (298)
 - [🔎 Search & Discovery](#search-discovery) (50)
-- [🎓 Education & Learning](#education-learning) (49)
+- [🎓 Education & Learning](#education-learning) (50)
 - [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (43)
 - [💰 Finance, Crypto & Payments](#finance-crypto-payments) (53)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (174)
-- [💬 Chatbots & Conversational](#chatbots-conversational) (41)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (176)
+- [💬 Chatbots & Conversational](#chatbots-conversational) (42)
 - [👥 Social & Community](#social-community) (33)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (22)
-- [✨ Everything Else](#everything-else) (138)
+- [✨ Everything Else](#everything-else) (141)
 
 ## 📣 Marketing, SEO & Sales
 
@@ -210,6 +210,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Supademo](https://supademo.com) - Supademo helps teams create interactive demos and guides in seconds.
 - [GenPage](https://www.genpage.ai) - Your marketing campaigns are personalized.
 - [IndieTool](https://www.indietool.io) - IndieTool is a launchpad and directory for indie founders.
+- [beREEL.pro](https://bereel.pro) - Create your first reels free, no card needed, account in about a minute.
 
 ## 🤖 AI Agents & Assistants
 
@@ -416,6 +417,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ZooWork](https://zoowork.ai) - ZooWork lets you build, deploy, and deliver AI agents to teams or clients — experts start in the Builder UI, developers ship with the Managed Agent API.
 - [ruOS](https://ruos.cognitum.one) - ruOS is a private cloud desktop with an AI team built in.
 - [OpenBot](https://openbot.run) - OpenBot is an open-source workspace for AI teammates.
+- [OpenSwarm](https://openswarm.info) - Stop bolting AI onto your computer.
 
 ## 💻 Coding & Developer Tools
 
@@ -778,6 +780,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [devpit](https://devpit.app) - devpit is a native desktop app for running Claude Code agents.
 - [Pheebs](https://pheebs.ai) - Measure how you and your team actually work with AI coding agents.
 - [Rill Browser](https://rill.love) - Rill is an AI-native browser built around the Claude Code and Codex you already use.
+- [BotBus](https://botbus.io/en/) - BotBus connects local coding agents to your phone.
+- [NOVA](https://nova.bridgeye.com) - Every developer knows the loop: write code, run it, it breaks, paste the error into ChatGPT, fix, repeat.
 
 ## 🎙 Audio, Voice & Music
 
@@ -884,6 +888,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Famulor](https://www.famulor.io) - Deploy AI voice agents that answer every inbound call, run outbound campaigns, and follow up over WhatsApp, email and SMS.
 - [FoundrRadio](https://foundrradio.live) - FoundrRadio is an internet radio platform where founders could own their own radio stations and go on air.
 - [AISongsGenerator](https://aisongsgenerator.com) - AISongsGenerator is a browser-based AI music toolkit for creators and musicians.
+- [Off the Record](https://weirdmachines.ai/off-the-record) - Off the Record reshapes your voice in real time so people can understand you while AI notetakers and hidden interview copilots struggle to transcribe it.
 
 ## 🎬 Video & Animation
 
@@ -988,6 +993,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Lyric Video Maker](https://lyricvideomaker.app) - Lyric Video Maker helps musicians and creators turn songs into synchronized lyric videos.
 - [ZombieTrend](https://zombietrend.com) - ZombieTrend makes personalized 15-second AI zombie trend videos from two photos.
 - [Video Upscaler](https://videoupscaler.video) - Video Upscaler is an online AI video enhancer for creators and restoration work.
+- [Griffin by Tavus](https://www.tavus.io/griffin) - Griffin is Tavus’s Human Interaction Model for face-to-face, real-time conversation.
+- [Kling 4.0](https://kling4.org) - Kling 4.0 is a browser-based AI video generator. Write a prompt or upload an image and it produces short, cinematic clips with natural motion, useful for social posts, ads and concept previews.
 
 ## 🎨 Image, Design & 3D
 
@@ -1113,6 +1120,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [RemoveGenie](https://removegenie.com) - RemoveGenie is a brush-based AI photo eraser for people, objects, text, watermarks, and stickers.
 - [Image Describer](https://imagedescriber.dev) - Image Describer helps creators and website editors turn images into descriptions, alt text, image prompts, and OCR.
 - [Nano Banana 21](https://nanobanana21.co) - Nano Banana 2.1 brings image generation and reference editing into one browser workspace. Use Nano Banana 2 Lite for text-to-image drafts, or choose Pro / Qwen Image 2.1 / GPT Image 2.5 for….
+- [Blur Background](https://blurbackground.vip) - Blur Background is a web photo editor for people who want to soften distracting backgrounds without installing desktop software.
+- [Sharpniq](https://unblurimage.me) - Sharpniq is an online AI tool for sharpening blurry photos.
 
 ## ✍️ Writing & Content
 
@@ -1188,6 +1197,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Reactive Resume](https://rxresu.me) - Reactive Resume is a free and open-source resume builder that simplifies the process of creating, updating, and sharing your resume.
 - [Jarq](https://jarq.app) - Translate, shorten, fix or rewrite any text right where your cursor is — in any app on Mac.
 - [Cosmic](https://www.cosmicjs.com) - Cosmic is an AI-native managed headless CMS for content teams.
+- [Markdoc](https://markdoc.app) - Write Markdown with the source and an editable preview side by side, live for everyone in the document.
 
 ## 📊 Analytics & Data
 
@@ -1590,6 +1600,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Rool](https://rool.dev/?rv_topic=producthunt) - Rool is your private AI workspace.
 - [IrisGo](https://irisgo.ai/solopreneur) - IrisGo is an AI operating system for Windows and Mac that helps automate everyday work across applications.
 - [Velozity](https://getvelozity.com) - Your team chats in one app, meets in another, and every AI works alone.
+- [Hark](https://hark.com) - Hark Pro is a personal AI designed to take things off your plate, not add another chatbot to your day.
+- [Novastart - The Infinite Canvas OS](https://novastart.com) - Novastart puts every app you use (Chrome, ChatGPT, Claude, Word, Excel, your files) on one infinite, zoomable canvas.
 
 ## 🔎 Search & Discovery
 
@@ -1696,6 +1708,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [SubmitSense](https://aiturnitinchecker.com) - SubmitSense helps students and researchers check AI writing and similarity before submission.
 - [Coddy](https://coddy.tech/partner/ProductHunt) - Coddy teaches you to code with short, interactive lessons you actually finish.
 - [ParakeetAI](https://www.parakeet-ai.com) - Your real-time AI interview help.
+- [ChickyTutor.com](https://chickytutor.com) - AI voice tutor for speaking practice.
 
 ## 🩺 Health, Fitness & Wellness
 
@@ -1975,6 +1988,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Invofox](https://www.invofox.com) - Invofox is a document parsing API for software teams that turns complex, real-world documents into accurate, structured data.
 - [Opengeni](https://opengeni.ai) - Ship AI agents to production in hours.
 - [FastRouter.ai](https://fastrouter.ai) - FastRouter is a unified AI gateway and control plane for developers and enterprise teams building with LLMs.
+- [Liquid Inference](https://liquidinference.ai) - * Fully compatible with agentic coding tools: Claude Code, Codex, OpenCode, Cursor, Pi, Cline, and many more.
+- [KloudMate](https://www.kloudmate.com) - KloudMate combines full-stack Observability with AI-powered Monitoring and Agentic SRE-Ops, enabling engineering teams to monitor applications, network and infrastructure systems, while….
 
 ## 💬 Chatbots & Conversational
 
@@ -2019,6 +2034,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Deskcord.chat](https://deskcord.chat) - Turn Discord into your support desk and chat with your customers.
 - [miso.com](https://www.miso.com) - Stop opening 20 tabs to book a trip.
 - [Sellio](https://sellio.chat) - AI customer support in one shared inbox: live chat, WhatsApp, Instagram, Telegram, and email.
+- [Kimi K2 Chat](https://kimi-k2.net) - kimi-k2.net is an independent browser-based chat service for Kimi models, using the Moonshot AI API for AI processing. Sign in with Google and new accounts get 2 free conversations for questions,….
 
 ## 👥 Social & Community
 
@@ -2221,6 +2237,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FeelMyMac](https://feelmymac.thehighjack.it) - FeelMyMac brings haptic textures to cursor movement and scrolling on Mac trackpads.
 - [Ghostifier](https://www.ghostifier.com) - Instead of one form per company, Ghostifier starts from your inbox.
 - [Vedic Astrology Chart](https://vedicastrologychart.net) - Generate a free sidereal Vedic birth chart and explore houses, nakshatras, D9/Navamsa, dashas, and divisional charts.
+- [tide](https://tide.convex.works) - tide is a simple, self‑hostable video conference service, alternative to Jitsi.
+- [Paw-Paw](https://paw-paw.pet) - A small illustrated animal sits in the corner of your Mac's screen, reacts as you type and click, and naps when you pause.
+- [Equipment Rental Software](https://www.equipmentrentalsoftware.io) - Equipment Rental Software helps rental businesses manage equipment, inventory, bookings, payments, customers, and maintenance in one place.
 
 ## Contributing
 
