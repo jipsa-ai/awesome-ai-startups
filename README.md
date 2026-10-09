@@ -7,20 +7,20 @@ The goal: make useful indie AI products easier to find, share, and support.
 **Building one?** Add your startup by opening a PR — see [contributing.md](contributing.md) for the format and inclusion criteria.
 
 ## Contents
-- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (183)
-- [🤖 AI Agents & Assistants](#ai-agents-assistants) (204)
-- [💻 Coding & Developer Tools](#coding-developer-tools) (360)
+- [📣 Marketing, SEO & Sales](#marketing-seo-sales) (186)
+- [🤖 AI Agents & Assistants](#ai-agents-assistants) (205)
+- [💻 Coding & Developer Tools](#coding-developer-tools) (363)
 - [🎙 Audio, Voice & Music](#audio-voice-music) (104)
-- [🎬 Video & Animation](#video-animation) (103)
-- [🎨 Image, Design & 3D](#image-design-3d) (123)
+- [🎬 Video & Animation](#video-animation) (107)
+- [🎨 Image, Design & 3D](#image-design-3d) (125)
 - [✍️ Writing & Content](#writing-content) (73)
 - [📊 Analytics & Data](#analytics-data) (99)
-- [🗂 Productivity & Notes](#productivity-notes) (298)
+- [🗂 Productivity & Notes](#productivity-notes) (299)
 - [🔎 Search & Discovery](#search-discovery) (50)
 - [🎓 Education & Learning](#education-learning) (50)
-- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (43)
-- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (53)
-- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (176)
+- [🩺 Health, Fitness & Wellness](#health-fitness-wellness) (44)
+- [💰 Finance, Crypto & Payments](#finance-crypto-payments) (54)
+- [🛠 APIs, SDKs & Infrastructure](#apis-sdks-infrastructure) (179)
 - [💬 Chatbots & Conversational](#chatbots-conversational) (42)
 - [👥 Social & Community](#social-community) (33)
 - [🛒 E-commerce & Retail](#e-commerce-retail) (22)
@@ -211,6 +211,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [GenPage](https://www.genpage.ai) - Your marketing campaigns are personalized.
 - [IndieTool](https://www.indietool.io) - IndieTool is a launchpad and directory for indie founders.
 - [beREEL.pro](https://bereel.pro) - Create your first reels free, no card needed, account in about a minute.
+- [AgentSDR](https://agentsdr.ai) - The open-source AI SDR workspace that replaces Clay, Smartlead, HubSpot, and many more.
+- [OneLence](https://onelence.com) - OneLence helps small marketing teams find growth opportunities across SEO, GEO, paid social and affiliate marketing, understand what to do next, and improve marketing efficiency without increasing….
+- [Growth Bounties](https://growthbounties.com) - Growth Bounties is a marketplace for outcome-based growth.
 
 ## 🤖 AI Agents & Assistants
 
@@ -418,6 +421,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ruOS](https://ruos.cognitum.one) - ruOS is a private cloud desktop with an AI team built in.
 - [OpenBot](https://openbot.run) - OpenBot is an open-source workspace for AI teammates.
 - [OpenSwarm](https://openswarm.info) - Stop bolting AI onto your computer.
+- [OpenCharm](https://opencharm.dev) - OpenCharm is an open-source body for the AI agent you already run, right by your Mac's notch.
 
 ## 💻 Coding & Developer Tools
 
@@ -782,6 +786,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Rill Browser](https://rill.love) - Rill is an AI-native browser built around the Claude Code and Codex you already use.
 - [BotBus](https://botbus.io/en/) - BotBus connects local coding agents to your phone.
 - [NOVA](https://nova.bridgeye.com) - Every developer knows the loop: write code, run it, it breaks, paste the error into ChatGPT, fix, repeat.
+- [OpenPilot](https://openpilot.in) - OpenPilot is a free, MIT-licensed desktop AI agent.
+- [Staffcoder](https://www.staffcoder.com) - Staffcoder is a hands-on coding platform where developers practice real engineering work instead of algorithm puzzles.
+- [Together Link](https://www.together.ai/link) - Together Link connects coding agents to open models on Together AI, letting developers keep their existing tools and workflows while reducing model costs.
 
 ## 🎙 Audio, Voice & Music
 
@@ -995,6 +1002,10 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Video Upscaler](https://videoupscaler.video) - Video Upscaler is an online AI video enhancer for creators and restoration work.
 - [Griffin by Tavus](https://www.tavus.io/griffin) - Griffin is Tavus’s Human Interaction Model for face-to-face, real-time conversation.
 - [Kling 4.0](https://kling4.org) - Kling 4.0 is a browser-based AI video generator. Write a prompt or upload an image and it produces short, cinematic clips with natural motion, useful for social posts, ads and concept previews.
+- [OpenVids](https://openvids.ai) - Open-source, agent-first AI video editor for macOS and Windows.
+- [Refs](https://refs.video) - Refs is a library of 3000+ films that moved people, each measured cut by cut and written up as a 15-plate blueprint with a recipe prompt.
+- [Visemix](https://lipsync.vip) - Visemix creates AI lip sync videos and talking photos using authorized audio, recording or text.
+- [AI Zombie](https://ai-zombie.com) - AI Zombie (ai-zombie.com) makes the viral zombie trend video, the "zombie hug" love story, from two photos. Add one photo of each person or pet and choose who turns. You get a 15-second MP4 with….
 
 ## 🎨 Image, Design & 3D
 
@@ -1122,6 +1133,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Nano Banana 21](https://nanobanana21.co) - Nano Banana 2.1 brings image generation and reference editing into one browser workspace. Use Nano Banana 2 Lite for text-to-image drafts, or choose Pro / Qwen Image 2.1 / GPT Image 2.5 for….
 - [Blur Background](https://blurbackground.vip) - Blur Background is a web photo editor for people who want to soften distracting backgrounds without installing desktop software.
 - [Sharpniq](https://unblurimage.me) - Sharpniq is an online AI tool for sharpening blurry photos.
+- [Odyssey 3](https://odyssey.systems/meet-odyssey-3) - Odyssey-3 is a foundation world model that generates interactive environments from a prompt and predicts in real time how they change as you or an agent act in them.
+- [3dlogoai](https://3dlogoai.com) - Generate 3D or 2D logos from your company name or slogan.
 
 ## ✍️ Writing & Content
 
@@ -1602,6 +1615,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Velozity](https://getvelozity.com) - Your team chats in one app, meets in another, and every AI works alone.
 - [Hark](https://hark.com) - Hark Pro is a personal AI designed to take things off your plate, not add another chatbot to your day.
 - [Novastart - The Infinite Canvas OS](https://novastart.com) - Novastart puts every app you use (Chrome, ChatGPT, Claude, Word, Excel, your files) on one infinite, zoomable canvas.
+- [HeyPi](https://heypi.xyz) - Most AI meeting tools capture what happened and send you notes.
 
 ## 🔎 Search & Discovery
 
@@ -1755,6 +1769,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [ADHD Reading](https://adhdreading.org) - ADHD Reading keeps things simple with transparent pricing and no hidden costs.
 - [Rhem Labs](https://rhem.ai) - Aging at home has a visibility problem.
 - [hairforge](https://beardstyles.co) - hairforge helps users compare beard styles, understand face-shape fit, and preview grooming directions before committing to a new look.
+- [LoreTypes](https://loretypes.com) - Free self-discovery quizzes: aura color, archetype, moral alignment, color season, spirit animal and past life.
 
 ## 💰 Finance, Crypto & Payments
 
@@ -1811,6 +1826,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Bleetz Network](https://bleetz.network) - Fundraising is broken.
 - [Supertake](https://supertake.com) - Supertake transforms your unique takes on the world into real, shareable investment portfolios using frontier AI and trading agents.
 - [Chargebee](http://chargebee.com) - Adopt new pricing models — tiered, volume, stairstep, usage-based, flat-fee, or any custom model, without outgrowing your billing system.
+- [FirstPass Memo](https://firstpassmemo.com) - FirstPass Memo is a free red-flag checker for people buying a small online business: SaaS, content sites, ecommerce, apps.
 
 ## 🛠 APIs, SDKs & Infrastructure
 
@@ -1990,6 +2006,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [FastRouter.ai](https://fastrouter.ai) - FastRouter is a unified AI gateway and control plane for developers and enterprise teams building with LLMs.
 - [Liquid Inference](https://liquidinference.ai) - * Fully compatible with agentic coding tools: Claude Code, Codex, OpenCode, Cursor, Pi, Cline, and many more.
 - [KloudMate](https://www.kloudmate.com) - KloudMate combines full-stack Observability with AI-powered Monitoring and Agentic SRE-Ops, enabling engineering teams to monitor applications, network and infrastructure systems, while….
+- [Opposable](https://getopposable.com) - Opposable lets Claude Code, Codex or any MCP agent see, tap and type on a real iPhone or Android phone, in every app you're signed into.
+- [Pine Computer](https://pinecomputer.io) - Pine Computer is a cloud computer built for AI to use.
+- [Busabase](https://busabase.com) - Different agents.
 
 ## 💬 Chatbots & Conversational
 
